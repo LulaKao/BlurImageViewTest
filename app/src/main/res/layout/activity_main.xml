@@ -8,10 +8,10 @@
 
     <com.jgabrielfreitas.core.BlurImageView
         android:id="@+id/imageView"
-        android:layout_width="300dp"
-        android:layout_height="300dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         android:layout_centerInParent="true"
-        android:src="@drawable/example" />
+        android:src="@drawable/qrcode" />
 
     <!--    MAX_RADIUS = 25
             MIN_RADIUS = 1 -->
